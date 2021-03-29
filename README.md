@@ -3,8 +3,6 @@
 # Trickset for THPS
 Copy tricks from one CAS to another
 
-# SKA Format
-
 # Approximate Sections (In Order)
 - Skater name
 - Save file name
