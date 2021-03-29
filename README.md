@@ -2,9 +2,3 @@
 
 # Trickset for THPS
 Copy tricks from one CAS to another
-
-# Approximate Sections (In Order)
-- Skater name
-- Save file name
-- Online/co-op game settings
-- Gap names 
